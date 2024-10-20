@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rachit973" alt="rachit973" /></a> </p>
 
-- 🌱 I’m currently learning **MERN, Flutter, Data Structures and Algorithms**
+- 🌱 I’m currently learning **MERN stack, Flutter, Data Structures and Algorithms**
 
 - 💬 Ask me about **React, Javascript , Android Studios, AWS**
 
